@@ -1,0 +1,7 @@
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\bin\Debug\AUla09.exe.config
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\bin\Debug\AUla09.exe
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\bin\Debug\AUla09.pdb
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\obj\Debug\AUla09.csproj.AssemblyReference.cache
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\obj\Debug\AUla09.csproj.CoreCompileInputs.cache
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\obj\Debug\AUla09.exe
+C:\Users\victor.gssilva9\source\repos\AUla09\AUla09\obj\Debug\AUla09.pdb
